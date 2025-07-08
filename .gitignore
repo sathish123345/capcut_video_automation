@@ -3,6 +3,7 @@
 # dependencies
 /node_modules
 /tmp
+/data.js
 /.pnp
 .pnp.*
 .yarn/*
